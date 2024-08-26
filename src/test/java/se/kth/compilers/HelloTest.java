@@ -16,6 +16,7 @@ class HelloTest {
   @BeforeEach
   public void setUp() {
     System.setOut(new PrintStream(outputStreamCaptor));
+    System.out.println("Anky");
   }
 
   @AfterEach
