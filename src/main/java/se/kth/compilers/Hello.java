@@ -7,6 +7,5 @@ public class Hello {
       return;
     }
     System.out.print("Hello Anky Assasins-ok");
-    System.out.print("Hello Anky Assasins-ok");
   }
 }
