@@ -6,6 +6,6 @@ public class Hello {
       System.out.printf("Hello %s!", args[0]);
       return;
     }
-    System.out.print("Hello Anky Assasins-ok-87");
+    System.out.print("Hello Anky Assasinmncncs-ok-87");
   }
 }
